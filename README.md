@@ -30,7 +30,7 @@ active - [https://drive.google.com/file/d/1xnr1usgstwVqnGe42jfCcR3TYaYtbnTQ/view
 ### Links
 
 - Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-6]
-- Live Site URL: [https://classy-kulfi-f3d3f4.netlify.app/]
+- Live Site URL: [https://boisterous-gumdrop-0dc96e.netlify.app/]
 
 ### Built with
 
