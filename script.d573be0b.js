@@ -437,7 +437,7 @@ _asyncToGenerator( /*#__PURE__*/_regeneratorRuntime().mark(function _callee() {
       case 10:
         _context.prev = 10;
         _context.t0 = _context["catch"](0);
-        alert("Error processing data: Given data not correct", _context.t0);
+        alert("wait for exactly 3 seconds..", _context.t0);
       case 13:
       case "end":
         return _context.stop();
