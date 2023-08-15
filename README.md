@@ -1,7 +1,7 @@
 ### Links
 
-- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-6]
 - Live Site URL: [https://boisterous-gumdrop-0dc96e.netlify.app/]
+- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-6]
 
 ## Table of contents
 
