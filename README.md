@@ -1,16 +1,15 @@
-# Frontend Mentor - Expenses chart component solution
+### Links
 
-This is a solution to the [Expenses chart component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/expenses-chart-component-e7yJBUdjwt). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-6]
+- Live Site URL: [https://boisterous-gumdrop-0dc96e.netlify.app/]
 
 ## Table of contents
 
 - [The challenge](#the-challenge)
 - [Screenshot](#screenshot)
-- [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ### The challenge
 
@@ -27,10 +26,7 @@ Users should be able to:
 not active - [https://drive.google.com/file/d/1iLgseLc-7FCJ3q3P1RcS1LZhtMvjuPwM/view?usp=sharing]
 active - [https://drive.google.com/file/d/1xnr1usgstwVqnGe42jfCcR3TYaYtbnTQ/view?usp=sharing]
 
-### Links
 
-- Solution URL: [https://github.com/ArjunJayakrishnan/My-Repo-6]
-- Live Site URL: [https://boisterous-gumdrop-0dc96e.netlify.app/]
 
 ### Built with
 
@@ -51,6 +47,3 @@ i think i fully learned how to do async-await function.
 - Frontend Mentor - [@ArjunJayakrishnan](https://www.frontendmentor.io/profile/yourusername)
 - Github - https://github.com/ArjunJayakrishnan
 
-## Acknowledgments
-
-i would like to thank frontEnd mentor for giving me this challenge.
